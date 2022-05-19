@@ -2,7 +2,7 @@
 
 /**
 * ft_putnbr - function
-* @nb: the bumber
+* @nb: the number
 *
 * Return: the char of a number
 */
